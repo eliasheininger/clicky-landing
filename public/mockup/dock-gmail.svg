@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 73 73" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="gmail logo">
+<g clip-path="url(#clip0_0_21)">
+<path id="Vector" d="M0 0H73V73H0" fill="var(--fill-0, white)"/>
+<g id="Frame 1948759948">
+<path id="Vector_2" d="M12 27.7131V51.7781C12 54.5927 13.3889 56 16.1667 56H23.3889V27.7131" fill="var(--fill-0, #4285F4)"/>
+<path id="Vector_3" d="M50.6111 27.7131V56H57.8333C60.6111 56 62 54.5927 62 51.7781V27.7131" fill="var(--fill-0, #34A853)"/>
+<path id="Vector_4" d="M50.0556 36.8607V21.9432L53.9444 18.9879C57.2778 16.4547 62 19.2693 62 23.2098V27.7132" fill="var(--fill-0, #FBBC04)"/>
+<path id="Vector_5" d="M22.8333 36.0162V21.0988L37 31.935L50.6111 21.521V36.4384L37 46.8525" fill="var(--fill-0, #EA4335)"/>
+<path id="Vector_6" d="M12 27.7132V23.2098C12 19.1286 16.7222 16.4547 20.0556 18.9879L23.3889 21.521V36.4385" fill="var(--fill-0, #C5221F)"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_21">
+<rect width="73" height="73" rx="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
